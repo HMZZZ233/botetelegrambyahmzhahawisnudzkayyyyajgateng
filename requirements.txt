@@ -1,0 +1,13 @@
+python-telegram-bot
+requests
+beautifulsoup4
+dnspython
+python-whois
+gTTS
+Pillow
+urllib3
+aiohttp
+httpx
+apscheduler
+pytz
+python-dotenv
